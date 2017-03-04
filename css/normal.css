@@ -1,0 +1,40 @@
+.rem{
+background-image: url("../image/DOTA2.jpg");
+position:absolute; 
+top:0; 
+left:0; 
+height:100%; 
+width:100%; 
+background-position: center 0; 
+background-repeat: no-repeat; 
+background-attachment:fixed; 
+background-size: cover; 
+} 
+.banner-info {
+  text-align: center;
+   text-align: center;
+  margin: 50em 0 14em 0;
+}
+.banner-info h2{
+  color: #FFF;
+  margin: 0;
+  font-size: 55px;
+  font-weight: 300;
+  padding-bottom: 1em;
+}
+.banner-info h2 span{
+  font-weight: 700;
+  padding-bottom: 0.4em;
+  border-bottom: solid 3px #BE4343;
+}
+.banner-info h2 span.right-border{
+  font-weight: 500;
+  color: #C2C2C2;
+}
+.banner-info p{
+	color: #FFF;
+	font-size: 16px;
+	margin: 1em 0 0 0;
+	line-height: 1.8em;
+}
+
